@@ -36,3 +36,6 @@ Expected:  1abcdefgh
 Response:  abcdefgh
 ```
 Will not.
+
+# Contributing
+Anyone is welcome to contribute to this script, if you add any new features or find/fix any bugs, feel free to make a pull request so that others can use your changes also.
